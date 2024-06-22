@@ -353,7 +353,7 @@ width: calc((100%-72px)/4);
 .span-footer {
     color: #f4f4fd;
 }
-.container-div-footer {
+.container div-footer {
     display: flex;
     align-items: baseline;
 }
