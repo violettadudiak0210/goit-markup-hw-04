@@ -1,0 +1,255 @@
+body {  
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #FFF;
+}
+
+.logo{
+    font-family: "Raleway", sans-serif;
+    color: #4d5ae5;
+}
+.header {
+   font-family: "Raleway", sans-serif;
+   font-size: 18px;
+   font-weight: 700;
+   line-height: 1.17;
+   letter-spacing: 0.03em;
+   text-transform: uppercase;
+   color: #4d5ae5;
+   border-bottom: 1px solid #e7e9fc;
+}
+
+.logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+    margin-right: 76px;
+}
+.span-class {
+    color: #2e2f42
+}
+
+.krater {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+    padding: 24px 0;
+}
+.krater:hover {
+    color: #404bbf;
+}
+.krater:focus {
+    color: #404bbf;
+}
+
+.address {
+    font-style: normal;
+}
+
+.address-link {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.address-link:hover {
+    color: #404bbf;
+}
+
+.address-link:focus {
+    color: #404bbf;
+}
+
+.img {
+    display: block;
+}
+
+.section-one {
+    background-color: #2e2f42;
+    padding: 188px 0;
+
+}
+
+.header-one {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFF;
+    max-width: 496px;
+}
+
+.button {
+    background-color: #4D5AE5;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #FFF;
+    cursor: pointer;
+    display: block;
+    min-width: 169px;
+    height: 56px;
+    border: none;
+    border-radius: 4px;
+}
+.button:hover {
+    background-color: #404bbf;
+}
+.button:focus {
+    background-color: #404bbf;
+}
+
+.section-two {
+padding: 120px 0;
+}
+
+.header-three {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+    margin-bottom: 8px;
+    text-align: center;
+    margin-bottom: 8px;
+}
+
+.paragraph {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+
+.section-three {
+    background-color: #f4f4fd;
+    padding: 120px 0;
+}
+
+.header-two {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+    margin-bottom: 72px;
+    margin-bottom: 72px;
+}
+
+.item-list-section-three {
+    background-color: #FFF;
+    width: calc(100%-72px);
+    border-radius: 0px 0px 4px 4px;
+}
+.section-four {
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
+.list-section-four {
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 24px;
+    row-gap: 48px;
+}
+
+.item-list-section-four {
+    width: calc(100%-48px);
+}
+
+.container-div-section-four {
+    padding: 32px 16px;
+    border: 1px solid #e7e9fc;
+    border-top: none;
+    margin-bottom: 8px;
+}
+.footer {
+    background-color: #2e2f42;
+    padding: 100px 0;
+}
+
+.header-footer {
+    display: inline-block;
+    margin-bottom: 16px;
+}
+.span-footer {
+    color: #f4f4fd;
+}
+
+.paragraph-footer {
+    line-height: 1.5;
+    color: #f4f4fd;
+    letter-spacing: 0.02em;
+    max-width: 264px;
+}
+
+.header-container {
+    display: flex;
+}
+
+.container {
+    width: 1158px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.nav-header {
+    display: flex;
+    align-items: center;
+}
+
+.menu-nav {
+    display: flex;
+    gap: 40px;
+
+}
+
+.menu-nav-list {
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+
+.address-list {
+    display: flex;
+    gap: 40px;
+}
+
+.advantages-visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+    white-space: nowrap;
+    clip-path: inset(100%);
+    clip: rect(0 0 0 0);
+    overflow: hidden;
+}
+
+.list-section-two {
+    display: flex;
+    gap: 24px;
+    padding-left: 0;
+    margin: 0;
+}
+
+.item-list-section-two{
+width: calc((100%-72px)/4);
+}
+
+.list-section-tree {
+    display: flex;
+    gap: 24px;
+}
+
+.div-section-tree {
+    padding: 32px 0;
+}
