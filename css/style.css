@@ -365,9 +365,7 @@ width: calc((100%-72px)/4);
 .footer-content {
     margin-right: 120px;
 }
-.paragraph-footer {
-    margin-bottom: 16px;
-}
+
 .social-media-footer {
     font-weight: 500;
     font-size: 16px;
