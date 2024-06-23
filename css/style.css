@@ -3,7 +3,9 @@ body {
     color: #434455;
     background-color: #FFF;
 }
-
+p {
+    margin: 0;
+}
 .logo{
     font-family: "Raleway", sans-serif;
     color: #4d5ae5;
